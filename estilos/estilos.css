@@ -35,3 +35,12 @@ body
 {
     font-size: 20px;
 }
+#contenedor
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    width: 70%;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
